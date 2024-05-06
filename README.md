@@ -1,4 +1,4 @@
-Application Name : FINACLE
+🌟 Application Name : FINACLE 🌟
 
 🚀 Embark on a Financial Journey with Finacle!📈
 
