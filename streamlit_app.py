@@ -384,7 +384,7 @@ def plot_data(string, string_list, df):
     bad_values = bad_values[::-1]
 
     # Plotting the data
-    plt.plot(month, good_values, label='Mobilized')
+    plt.plot(month, good_values, label='Funds Mobilized')
     plt.plot(month, bad_values, label='Redeemed')
 
     # Adding labels and title
