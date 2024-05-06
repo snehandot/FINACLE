@@ -11,13 +11,13 @@ Finacle is an innovative application meticulously crafted to streamline your fin
 
 How to use ! ⬆️
 
-🔑 Input OpenAI API Key: Provide a field for users to input their OpenAI API key.
+🔑 Input OpenAI API Key: Use the API key sent personally  , copy without the <<,>> symbols.
 
-📄 Upload PDF Document: Allow users to upload PDF documents containing scheme names and category details for analysis.
+📄 Upload PDF Document: Upload the pdf file through the upload button , the sample pdfs come pre loaded into our application.
 
-🔄 Process PDF: Once the document is uploaded, process the PDF data and store it in the Finacle vector database. Ensure that the same file isn't processed again to avoid duplication.
+🔄 Process PDF: Once the document is uploaded, click the "Process" button to store your pdf into the vector database. Ensure that the same file isn't processed again to avoid duplication.
 
-🔍 Select Scheme Details: Create a selection tab where users can choose the scheme name, fund name, month, and year for analysis.
+🔍 Select Scheme Details: Select your required scheme details , your scheme details will be procesed.
 
 🏃‍♂️ Run Model: Implement a model to retrieve the selected fund details based on user input.
 
