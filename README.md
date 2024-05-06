@@ -9,6 +9,7 @@ Finacle is an innovative application meticulously crafted to streamline your fin
 
 
 How to use !
+
 🔑 Input OpenAI API Key: Provide a field for users to input their OpenAI API key.
 
 📄 Upload PDF Document: Allow users to upload PDF documents containing scheme names and category details for analysis.
@@ -29,9 +30,13 @@ How to use !
 #####
 
 Key Features ! 🚀
+
 -Automated Analysis: Effortlessly analyze PDF reports containing scheme names and their diverse category details for the month. 📊
+
 -Comprehensive Insights: Gain comprehensive insights into mutual fund schemes, enabling informed decision-making and -portfolio optimization. 📈
+
 -User-Friendly Interface: Navigate our intuitive platform with ease, allowing for seamless interaction and efficient -utilization of data. 💻
+
 -Time-Saving Solution: Save valuable time by automating the analysis process, freeing up resources for strategic investment planning and execution. ⏱️
 
 
