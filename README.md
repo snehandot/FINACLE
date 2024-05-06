@@ -1,6 +1,7 @@
 Application Name : FINACLE
 
 🚀 Embark on a Financial Journey with Finacle!📈
+
 Welcome to our revolutionary tool designed to empower your financial decisions effortlessly.
 
 !Introduction 💻
