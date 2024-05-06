@@ -492,7 +492,7 @@ def main():
     with st.sidebar:
 
         import os
-        api_key = st.text_input('OpenAI API Key:', type='password')
+        api_key = st.text_input('OpenAI API Key:( Refer ReadMe for API Key) ', type='password')
         openai.api_key = api_key
         if api_key:
             os.environ['OPENAI_API_KEY'] = api_key
