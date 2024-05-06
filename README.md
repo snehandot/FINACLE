@@ -5,10 +5,11 @@ Application Name : FINACLE
 Welcome to our revolutionary tool designed to empower your financial decisions effortlessly.
 
 !Introduction 💻
+
 Finacle is an innovative application meticulously crafted to streamline your financial analysis process. Whether you're a seasoned investor or just starting your journey, our platform offers unparalleled insights into mutual fund schemes. Say goodbye to tedious manual analysis of PDF reports — Finacle automates the process, extracting scheme names and their corresponding category details for the month.
 
 
-How to use !
+How to use ! ⬆️
 
 🔑 Input OpenAI API Key: Provide a field for users to input their OpenAI API key.
 
