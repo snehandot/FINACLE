@@ -2,7 +2,7 @@
 
 Team Name: Lancelot Team members: Sree Snehan - Kuhan M - Anto Nickson J
 
-Mail: snehandot@gmail.com Contacct No: 98949 37066 , 78450 36121
+Mail: snehandot@gmail.com   Contact No: 98949 37066 , 78450 36121
 
 🚀 Embark on a Financial Journey with FINACLE!📈
 
