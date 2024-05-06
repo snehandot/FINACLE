@@ -398,35 +398,9 @@ def plot_data(string, string_list, df):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-# def clear_history():
-#     if 'history' in st.session_state:
-#         del st.session_state['history']
-
-
-
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Chat with your gpt")
+    st.set_page_config(page_title="FINACLE FUND ANALYSER 🔍")
     st.set_option('deprecation.showPyplotGlobalUse', False)
     st.write(css, unsafe_allow_html=True)
 
@@ -480,11 +454,8 @@ def main():
 
         if "conversation" not in st.session_state:
             st.session_state.conversation = None
-        # if "chat_history" not in st.session_state:
-        # st.session_state.chat_history = None
-        # prompt.format(query=user_question)
-            st.header("Chat with your gpt")
-    # user_question = st.text_input("Ask a question about your documents:")
+            st.header("Finacle fund analyser")
+
         user_question= category_1_selected + " "+ category_2_selected +" " + category_3_selected +" " + category_5_selected +" " + category_6_selected
         if user_question:
             handle_userinput(user_question)
@@ -539,8 +510,7 @@ def main():
                 # create vector store
                 vectorstore = get_vectorstore(text_chunks)
 
-                # create conversation chain
-                # st.session_state.conversation = get_conversation_chain(vectorstore)
+                
 
 
 
