@@ -400,7 +400,7 @@ def plot_data(string, string_list, df):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="FINACLE FUND ANALYSER 🔍")
+    st.set_page_config(page_title="FINACLE Fund Analyser 🔍")
     st.set_option('deprecation.showPyplotGlobalUse', False)
     st.write(css, unsafe_allow_html=True)
 
@@ -417,10 +417,10 @@ def main():
         
         </style>
     """
-
+    st.header("FINACLE Fund Analyser 🔍")
     # Display CSS style
     st.markdown(center_style, unsafe_allow_html=True)
-
+    
     # Create a dictionary of categories and their options
     categories = {
         'Scheme Type': [' Open ended Schemes', ' Close Ended Schemes', 'Interval Schemes'],
@@ -454,7 +454,7 @@ def main():
 
         if "conversation" not in st.session_state:
             st.session_state.conversation = None
-            st.header("Finacle fund analyser")
+            st.header("FINACLE Fund Analyser 🔍")
 
         user_question= category_1_selected + " "+ category_2_selected +" " + category_3_selected +" " + category_5_selected +" " + category_6_selected
         if user_question:
