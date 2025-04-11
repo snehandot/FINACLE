@@ -59,5 +59,4 @@ Technical Aspects:
 Update!
 
 2nd Place
-https://github.com/user-attachments/assets/b03f4fa8-d408-46d4-82fc-20e7a4386e6a
-
+![2nd Place](https://github.com/user-attachments/assets/b03f4fa8-d408-46d4-82fc-20e7a4386e6a)
