@@ -55,3 +55,9 @@ Technical Aspects:
 -> For creating a retreival QA_chain we have used load_q_a_chain from LangChain.chains.
 
 -> For prompt-specifying we have used Prompt template from Langchain.prompts.
+
+Update!
+
+2nd Place
+[WhatsApp Image 2024-07-31 at 00 40 57](https://github.com/user-attachments/assets/b03f4fa8-d408-46d4-82fc-20e7a4386e6a)
+
